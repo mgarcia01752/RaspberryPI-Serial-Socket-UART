@@ -7,8 +7,9 @@ Working Example of Communicating to a UART via Direct CLI or Socket Connection
 
 ## Raspberry PI Serial Socket UART Download and Installation Instructions
 
+````basb
 git clone https://github.com/mgarcia01752/RaspberryPI-Serial-Socket-UART.git
-
+````
 
 
 
