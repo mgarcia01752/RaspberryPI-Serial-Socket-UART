@@ -19,6 +19,7 @@
 	
 	Author: Maurice Garcia
 	email:	maurice.garcia.2015@gmail.com
+	email:	mgarcia01752@outlook.com
  */
 
 #include <stdio.h>
